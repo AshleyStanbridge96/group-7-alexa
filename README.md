@@ -10,4 +10,4 @@
   - [Tyler's Profile](https://github.com/tjac1336)
   - [Priyanka's Profile](https://github.com/pinky407)
   - [Ashley's Profile](https://github.com/AshleyStanbridge96)
-  
+  - [Kelsie's Profile](https://github.com/kdibben)
