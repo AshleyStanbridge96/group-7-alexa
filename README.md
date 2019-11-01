@@ -11,3 +11,5 @@
   - [Priyanka's Profile](https://github.com/pinky407)
   - [Ashley's Profile](https://github.com/AshleyStanbridge96)
   - [Kelsie's Profile](https://github.com/kdibben)
+
+  [Alexa Course](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
