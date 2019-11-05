@@ -1,20 +1,21 @@
 # group-7-alexa
 
 ## Group Members
+  ![Team photo](the-team-group-7.PNG)
   - Priyanka Bodapati
   - Tyler Jacobson
   - Kelsie Dibben
   - Ashley Stanbridge
+
 
 ## Github Profiles
   - [Tyler's Profile](https://github.com/tjac1336)
   - [Priyanka's Profile](https://github.com/pinky407)
   - [Ashley's Profile](https://github.com/AshleyStanbridge96)
   - [Kelsie's Profile](https://github.com/kdibben)
-
-  [Alexa Course](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
   
-  - Add PowerPoint slides
+## Alexa Course  
+  - View [Alexa Course](https://developer.amazon.com/en-US/alexa/alexa-skills-kit) to learn how to create your own Alexa skill.
 
  ## Steps to Build an Alexa App
  1. Open [Alexa Developer Console](https://developer.amazon.com/alexa/console/ask)
