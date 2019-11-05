@@ -51,3 +51,6 @@
  27. Enable testing in development
  28. Edit code so Alexa interacts and responds as you please
  29. Make sure you tell Alexa to "open 'appname'" before testing, otherwise you will not be testing your skill
+ 
+ ## Output of Superheroes
+ -!(output.PNG)
