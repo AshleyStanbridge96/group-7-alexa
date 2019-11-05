@@ -60,3 +60,12 @@
  -![graduation](alexa-demo-1.PNG)
 ### With memory
 -![graduation memory](alexa-demo-2.PNG)
+
+## Sources
+- [Alexa Skill Kit](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
+- [Building an Alexa Skill](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk/cake-walk-1)
+- [Who (or What) Is Alexa?](https://www.tomsguide.com/us/amazon-alexa-faq,review-4016.html)
+- [Echo image](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk/cake-walk-1): image source chapter1-2-echo.png
+- [Graph image](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk/cake-walk-1): image source https://d3ogm7ac91k97u.cloudfront.net/content/dam/alexa/alexa-skills-kit/courses/cake-walk/1/chapter1-2-how-diagram.png
+- [Video explaining Alexa](https://developer.amazon.com/en-US/alexa/alexa-skills-kit/resources/training-resources/cake-walk/cake-walk-1 ): video source https://www.youtube.com/watch?v=cakcsuzS2DY
+- [Echo joke image](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.businessinsider.com%2Feleven-jokes-that-show-off-amazon-alexas-sense-of-humor-2017-10&psig=AOvVaw3OI53Z5ubXzz-xN1PgMD0M&ust=1572997823932000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCPia_9nf0eUCFQAAAAAdAAAAABAK ): image source https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTfVXsZOMk_-_0NlZKtlUdA2RX5Gi90m_xi_EZzr8xJgmkwMYgf 
