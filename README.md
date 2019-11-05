@@ -52,5 +52,10 @@
  28. Edit code so Alexa interacts and responds as you please
  29. Make sure you tell Alexa to "open 'appname'" before testing, otherwise you will not be testing your skill
  
- ## Custom with Lamda
+ ## Custom with Lambda
  -![super heroes](output.PNG)
+ 
+ ## Custom with Lambda - Demonstarting memory
+ -![graduation](alexa-demo-1.png)
+### With memory
+-![graduation memory](alexa-demo-2.png)
