@@ -13,3 +13,5 @@
   - [Kelsie's Profile](https://github.com/kdibben)
 
   [Alexa Course](https://developer.amazon.com/en-US/alexa/alexa-skills-kit)
+  
+  -- Add PowerPoint slides
