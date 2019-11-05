@@ -56,6 +56,6 @@
  -![super heroes](output.PNG)
  
  ## Custom with Lambda - Demonstarting memory
- -![graduation](alexa-demo-1.png)
+ -![graduation](alexa-demo-1.PNG)
 ### With memory
--![graduation memory](alexa-demo-2.png)
+-![graduation memory](alexa-demo-2.PNG)
